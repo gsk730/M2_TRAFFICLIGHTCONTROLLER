@@ -1,5 +1,5 @@
 ## Images
-![Image 1](https://user-images.githubusercontent.com/94268410/144395120-d14580ec-b9d1-4bac-a0a6-c261282a1526.png)
+![Image 1](https://github.com/gsk730/M2_TRAFFICLIGHTCONTROLLER/blob/main/Images_i/1_e.png)
 
 ![Image 2](https://user-images.githubusercontent.com/94268410/144395159-0cc78581-c3bd-4bd2-ba43-5a894c7a9c50.png)
 
