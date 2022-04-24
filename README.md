@@ -5,6 +5,6 @@
 
 # BADGES
 * Codacy-Static code analysis 
-[![Codacy Badge]((https://app.codacy.com/project/badge/Grade/08feacde2c944756a69670dc6dd628e9)](https://www.codacy.com/gh/gsk730/M2_TRAFFICLIGHTCONTROLLER/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=gsk730/M2_TRAFFICLIGHTCONTROLLER&amp;utm_campaign=Badge_Grade))
+[![Codacy Badge]([![Codacy Badge](https://app.codacy.com/project/badge/Grade/08feacde2c944756a69670dc6dd628e9)](https://www.codacy.com/gh/gsk730/M2_TRAFFICLIGHTCONTROLLER/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=gsk730/M2_TRAFFICLIGHTCONTROLLER&amp;utm_campaign=Badge_Grade))
 * Codiga
 ![Code Grade](https://api.codiga.io/project/33151/status/svg)
