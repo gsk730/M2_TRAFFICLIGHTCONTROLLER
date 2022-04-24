@@ -2,13 +2,13 @@
  * @file simul.c
  * @brief User defined utilities, to define pins and ports to Blink an LED ON/OFF 
  * @version 0.1
- * @date 2021-11-29
+ * @date 2022-04-23
  * 
- * @copyright Copyright (c) 2021
+ * @copyright Copyright (c) 2022
  * 
  */
 
-#include "simul.c"
+# include "simul.c"
 
 int main()
 {

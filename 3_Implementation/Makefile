@@ -1,4 +1,4 @@
-PROJ_NAME =TrafficLightController
+PROJ_NAME =TRAFFICLIGHTCONTROLLER
 
 BUILD_DIR = Build
 
