@@ -8,7 +8,10 @@
  * 
  */
 
-# include "simul.c"
+#ifndef __AVR_ATmega328__
+    #define __AVR_ATmega328__
+#endif
+#include "simul.c"
 
 int main()
 {
