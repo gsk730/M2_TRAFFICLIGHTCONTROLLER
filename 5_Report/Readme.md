@@ -45,10 +45,7 @@ The whole system is controlled by Atmega328 & atmega8 microcontroller. The desig
 | LLR1 | The input is visualized using colour of LED glow.| Implemented 
 | LLR2 | The traffic system runs effectively on linux but it will also run equally well on other.  | Implemented
 | LLR3 | The corresponding LED glows based on the traffic density.| Implemented 
-# Behavioural Diagram
-![Traffic control](https://user-images.githubusercontent.com/94268410/144429965-adfcd133-9268-4fb2-b57a-24d1f7730935.png)
-# Block diagram
-![Block Diagram](https://user-images.githubusercontent.com/94268410/144398995-51c32bd6-8d14-4727-bb4a-efe36cf72ae0.png)
+
 ## High Level Test plan
 | ID    | Description                             | Expected O/P | Actual O/P | Type of Test |
 |-------|-----------------------------------------| ------------ | ---------- | ------------ |
